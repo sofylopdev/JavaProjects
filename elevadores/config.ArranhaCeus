@@ -1,0 +1,4 @@
+#Sat Apr 15 11:53:29 BST 2017
+minFloor=-2
+maxFloor=15
+ListaElevators=normal,largo,carga,expresso,restrito
