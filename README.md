@@ -97,3 +97,8 @@ A Chat application.
 
 ![alt text](https://github.com/sofylopdev/JavaProjects/blob/master/ChatApp.png)
 
+## License
+
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+
